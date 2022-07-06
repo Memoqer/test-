@@ -1,0 +1,1 @@
+export const currencyNames = ['USD', 'EUR', 'UAN', 'RUR', 'BTC']
